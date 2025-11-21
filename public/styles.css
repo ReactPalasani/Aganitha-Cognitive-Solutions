@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* add a tiny bit of custom spacing */
+body { padding: 1.5rem; }
